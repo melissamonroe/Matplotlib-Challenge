@@ -50,4 +50,4 @@ Objectives in this project are as follows:
 
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 
-* Properties included on plots/figures: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
+* Properties included on plots/figures: plot titles, axis labels, _x_-axis and _y_-axis, etc.
